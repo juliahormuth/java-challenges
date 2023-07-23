@@ -1,4 +1,4 @@
-package HackerRank.POO.JavaAbstractClass;
+package HackerRank.OOP.JavaAbstractClass;
 
 public class Main {
     public static void main (String []args) {

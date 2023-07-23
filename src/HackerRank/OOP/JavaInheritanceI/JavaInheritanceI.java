@@ -1,4 +1,4 @@
-package HackerRank.POO.JavaInheritanceI;
+package HackerRank.OOP.JavaInheritanceI;
 
 class Animal{
         void walk(){

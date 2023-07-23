@@ -1,4 +1,4 @@
-package HackerRank.POO.JavaMethodOverriding;
+package HackerRank.OOP.JavaMethodOverriding;
 
 
 class Sports{

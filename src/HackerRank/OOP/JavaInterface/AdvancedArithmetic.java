@@ -1,6 +1,4 @@
-package HackerRank.POO.JavaInterface;
-
-import java.util.List;
+package HackerRank.OOP.JavaInterface;
 
 public interface AdvancedArithmetic {
     public int divisor_sum(int n);

@@ -1,4 +1,4 @@
-package HackerRank.POO.JavaAbstractClass;
+package HackerRank.OOP.JavaAbstractClass;
 
 class MyBook extends Book {
     void setTitle (String s) {

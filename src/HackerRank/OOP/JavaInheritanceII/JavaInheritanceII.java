@@ -1,4 +1,4 @@
-package HackerRank.POO.JavaInheritanceII;
+package HackerRank.OOP.JavaInheritanceII;
 
 public class JavaInheritanceII {
     public static void main(String []args){

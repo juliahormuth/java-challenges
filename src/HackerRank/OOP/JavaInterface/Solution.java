@@ -1,4 +1,4 @@
-package HackerRank.POO.JavaInterface;
+package HackerRank.OOP.JavaInterface;
 
 import java.util.Scanner;
 

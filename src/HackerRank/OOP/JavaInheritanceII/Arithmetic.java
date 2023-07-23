@@ -1,4 +1,4 @@
-package HackerRank.POO.JavaInheritanceII;
+package HackerRank.OOP.JavaInheritanceII;
 
 public class Arithmetic {
     Integer add (Integer number1, Integer number2) {

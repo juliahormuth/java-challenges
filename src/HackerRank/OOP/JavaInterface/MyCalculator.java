@@ -1,7 +1,4 @@
-package HackerRank.POO.JavaInterface;
-
-import java.util.ArrayList;
-import java.util.List;
+package HackerRank.OOP.JavaInterface;
 
 public class MyCalculator implements AdvancedArithmetic {
     public int divisor_sum(int n) {

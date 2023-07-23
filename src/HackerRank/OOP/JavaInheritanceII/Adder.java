@@ -1,4 +1,4 @@
-package HackerRank.POO.JavaInheritanceII;
+package HackerRank.OOP.JavaInheritanceII;
 
 public class Adder extends Arithmetic {
 

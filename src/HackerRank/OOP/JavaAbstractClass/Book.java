@@ -1,4 +1,4 @@
-package HackerRank.POO.JavaAbstractClass;
+package HackerRank.OOP.JavaAbstractClass;
 
 public abstract class Book {
     String title;
