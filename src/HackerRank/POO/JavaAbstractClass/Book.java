@@ -1,2 +1,12 @@
-package HackerRank.POO.JavaAbstractClass;public class Book {
+package HackerRank.POO.JavaAbstractClass;
+
+public abstract class Book {
+    String title;
+
+    abstract void setTitle (String s);
+
+    String getTitle () {
+        return this.title;
+    }
+
 }
